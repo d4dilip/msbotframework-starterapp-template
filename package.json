@@ -1,0 +1,16 @@
+{
+  "name": "msbotframework-starterapp-template",
+  "version": "1.0.0",
+  "description": "A simple template to start with MS BOT Framework",
+  "main": "botapp/botbrain/botbrain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node botapp/botbrain/botbrain.js"
+  },
+  "author": "d4dilip <royalparinda11@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
